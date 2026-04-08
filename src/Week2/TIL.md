@@ -23,13 +23,13 @@ generation 필드 초기화 할 때 _"필드 'generation'이(가) 'final'이 될
 
 ### 3. 결과 이미지(스크린샷)
 - step1  
-  ![step1](./Pictures/스크린샷 2026-04-09 023722.png)
-- step2
-  ![step2](./Pictures/스크린샷 2026-04-09 023751.png)
-- step3
-  ![step3](./Pictures/스크린샷 2026-04-09 023829.png)
-- step3(오류)
-  ![step3_Error](./Pictures/스크린샷 2026-04-09 023853.png)
+  ![step1](https://github.com/oyend/TIL/blob/master/src/Week2/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-09%20023722.png)
+- step2  
+  ![step2](https://github.com/oyend/TIL/blob/master/src/Week2/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-09%20023751.png)
+- step3  
+  ![step3](https://github.com/oyend/TIL/blob/master/src/Week2/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-09%20023829.png)
+- step3(오류)  
+  ![step3_Error](https://github.com/oyend/TIL/blob/master/src/Week2/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-09%20023853.png)
 
 ### 4. 느낀 점
 이번주 PBL은 저번주에 진행한 자바 기초 문법보다는 생소한 개념이라 구현에 생각보다 오랜 시간이 걸렸다.  
