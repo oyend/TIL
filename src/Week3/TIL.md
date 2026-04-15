@@ -33,7 +33,7 @@
     - 운영진 정책 구현체: false 반환
 
 ### 3. 결과 이미지
-
+![Week3](https://github.com/oyend/TIL/blob/master/src/Week3/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-04-15%20234141.png?raw=true)
 
 ### 4. 느낀 점
 이번주 PBL은 체감상 가장 어려웠다...  
