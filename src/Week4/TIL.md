@@ -20,13 +20,13 @@
 
 ### 3. 결과 이미지(스크린샷)
 1. Main(package1)  
-![package1-1](src/Week4/Pictures/스크린샷 2026-05-03 005703.png)  
-![package1-2](src/Week4/Pictures/스크린샷 2026-05-03 005943.png)
+![package1-1](https://github.com/oyend/TIL/blob/master/src/Week4/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-03%20005703.png)  
+![package1-2](https://github.com/oyend/TIL/blob/master/src/Week4/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-03%20003353.png)
 
 2. Main(package2)  
-![package2-1](src/Week4/Pictures/스크린샷 2026-05-03 002954.png)  
-![package2-2](src/Week4/Pictures/스크린샷 2026-05-03 003353.png)  
-![package2-3](src/Week4/Pictures/스크린샷 2026-05-03 003439.png)
+![package2-1](https://github.com/oyend/TIL/blob/master/src/Week4/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-03%20002954.png)  
+![package2-2](https://github.com/oyend/TIL/blob/master/src/Week4/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-03%20003353.png)  
+![package2-3](https://github.com/oyend/TIL/blob/master/src/Week4/Pictures/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202026-05-03%20005943.png)
 
 ### 4. 느낀 점
 - 처음에 map이라는 새로운 형태로 접근했을 때는 어떻게 학습해야 할지 막막함을 느꼈으나, 공부하다보니 파이썬의 딕셔너리와 상당히 유사해서 초반만큼 어려움을 느끼지는 않았다.  
